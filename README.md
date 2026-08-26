@@ -29,6 +29,7 @@ No retail BIOS image, game disc image, or game assets are included in or distrib
 - ✅ **High Resolution** — Configured for HD scaling via `settings.toml`.
 - ✅ **Supersampling & Filtering** — 2x Supersampling with nearest-neighbor filtering to preserve sharp pixel aesthetics.
 - ⚠️ **Scope:** USA region only. Other regions are untested.
+- ⚠️ **Known Issues:** There is a minor graphical glitch with water rendering. This is an engine-level issue expected to be resolved by the PSXRecomp community in future runtime updates.
 
 ---
 
