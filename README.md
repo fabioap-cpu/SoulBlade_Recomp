@@ -1,5 +1,7 @@
 # SoulBlade-Recomp
 
+![Soul Blade Gameplay](docs/soulblade_gameplay.jpg)
+
 
 
 **Static recompilation of *Soul Blade* (USA) for the PlayStation 1.**
